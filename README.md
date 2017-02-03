@@ -1,3 +1,2 @@
 # WebFun
-lit
-Coding rox
+it's lit!
